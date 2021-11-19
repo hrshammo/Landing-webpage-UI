@@ -215,7 +215,7 @@ position: relative;
     .addcart{
         height: 100px;
         width: 30%;
-        top: -14px;
+        top: 4px;
         position: relative;
     }
 }
@@ -402,6 +402,6 @@ position: relative;
     }
     .addcart {
         width: 98.5%;
-        left: -20%;
+        left: -16%;
     }
 }
