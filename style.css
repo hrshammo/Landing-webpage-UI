@@ -135,6 +135,7 @@ position: relative;
     margin-top: 100px;
 	    width: 25%;
     text-align: center;
+	top: -4px;
 }
 .select p{
     font-size: 14px;
@@ -211,6 +212,7 @@ position: relative;
     .select{
         height: 100px;
         width: 30%;
+	    top: 0px;
     }
     .addcart{
         height: 100px;
