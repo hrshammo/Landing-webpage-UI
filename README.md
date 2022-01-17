@@ -5,3 +5,8 @@ https://hrshammo.github.io/Landing-webpage-UI/
 # Interface
 ![Screenshot 2021-11-19 111618](https://user-images.githubusercontent.com/76872754/142569207-b148f352-4518-43ee-ad66-af0c42fe7db5.png)
 ![WhatsApp Image 2021-11-19 at 11 21 51 AM](https://user-images.githubusercontent.com/76872754/142569802-10731061-23ac-4a7e-bff4-11fdb7ed4df3.jpeg)
+# License
+
+This repository is under the [AGPL-3.0](LICENSE) license.
+All Copyright © goes to HR Shammo (https://github.com/hrshammo/) 
+This essentially means that all changes that are made on top of this repository are required to be made public, regardless of where the code is being ran.
